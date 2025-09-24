@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+.text{
+  margin-right: 170px;
+  margin-left: 170px;
+  background-color: white;
+  padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.text h2{
+    font-family: 'Lora', serif;
+    font-size: 32px;
+    font-weight: 400;
+    padding-left: 250px;
+}
+.zhir{
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 0;
+    padding-left: 250px;
+    line-height: 26px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+.podp{
+    font-family: Open sans, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    align-content: center;
+    line-height: 22px;
+}
+.big__photo{
+    padding-left: 200px;
+}
+.photo{
+    padding-left: 300px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.photo_2{
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
